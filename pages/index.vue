@@ -134,6 +134,7 @@ export default {
     }
     this.$store.commit("startGame", tempCardsArr);
 
+
     function genCard(number, pattern, id) {
       return {
         id: id,

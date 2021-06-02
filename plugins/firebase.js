@@ -3,7 +3,7 @@ var firebase = require("firebase");
 
 //初期設定を追加
 firebase.initializeApp({
-    apiKey: "AIzaSyC8yOeWFHPsFAGw_wvHcx4--R2xfc4QdSE",
+    apiKey: "",
     authDomain: "chatapp-3596d.firebaseapp.com",
     databaseURL: "https://chatapp-3596d.firebaseio.com",
     projectId: "chatapp-3596d",
